@@ -1,3 +1,9 @@
+**CLI and  Library Wrapper**
+wrap stein library and cli for get some data.
+
+# CLI
+- **Installation **
+
 `npm install -g https://github.com/syns2191/cli-wrapper.git`
 
 - **wrap-cli-ex features**
@@ -46,3 +52,4 @@ src
 **Usage**
 
 `$wrap-cli-ex`
+

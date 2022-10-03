@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import {
     questions
 } from './commodities/constant';

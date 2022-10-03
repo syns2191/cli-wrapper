@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "fish comodity library",
   "main": "dist/index.js",
+  "bin": {  
+    "wrap-cli-ex": "./dist/index.js"  
+  },
   "scripts": {
     "start": "tsc && node dist/index.js",
     "lint": "eslint . --ext .ts",
